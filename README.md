@@ -1,14 +1,10 @@
-# Havard CS50 (2020) Audit
+# Harvard CS50 (2020) Audit Report
 
-This course was audited by me the owner of this github account, where all coding
-labs and problems seem were done according to the tools and infastructure that
-was available.
+I, the owner of this GitHub account, conducted an audit of the Harvard CS50
+(2020) course. During this audit, I completed several coding labs and problems using the available tools and infrastructure.
 
 ## Disclaimer
 
-All labs and problems were not submitted, but were do according to the expected
-results. Please do not use this material for any academic purpose given that no
-all problem sets were solved with Havard's CS50 library beside not using the
-most efficient algorithms.
+It is important to note that while all labs and problems were completed, they were not submitted formally. However, they were solved in accordance with the expected results. This material is not intended for use in any academic context, as not all problem sets were solved using Harvard's CS50 library, and some more efficient algorithms were not utilized.
 
-**Thank you.**
+Your understanding is greatly appreciated.
